@@ -62,7 +62,5 @@ Additionally, **exception handling using try-with-resources** ensures proper res
 ---
 
 ## OUTPUTS
-![Write Operation](https://github.com/user-attachments/assets/23474fb2-0edd-4242-8cdc-dbfba48a022d)
-
-![Read Operation](https://github.com/user-attachments/assets/9249d0c8-f223-4d26-964e-6438ba8d6161)
+![Image](https://github.com/user-attachments/assets/d0924ff1-7990-4a50-9dfa-bca87b0652b1)
 
